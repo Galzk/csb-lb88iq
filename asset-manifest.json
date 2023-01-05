@@ -1,20 +1,24 @@
 {
   "files": {
     "main.css": "https://galzk.github.io/csb-lb88iq/static/css/main.f29ae65a.chunk.css",
-    "main.js": "https://galzk.github.io/csb-lb88iq/static/js/main.90e143bb.chunk.js",
-    "main.js.map": "https://galzk.github.io/csb-lb88iq/static/js/main.90e143bb.chunk.js.map",
-    "runtime-main.js": "https://galzk.github.io/csb-lb88iq/static/js/runtime-main.a1816ad4.js",
-    "runtime-main.js.map": "https://galzk.github.io/csb-lb88iq/static/js/runtime-main.a1816ad4.js.map",
-    "static/js/2.fe19864c.chunk.js": "https://galzk.github.io/csb-lb88iq/static/js/2.fe19864c.chunk.js",
-    "static/js/2.fe19864c.chunk.js.map": "https://galzk.github.io/csb-lb88iq/static/js/2.fe19864c.chunk.js.map",
+    "main.js": "https://galzk.github.io/csb-lb88iq/static/js/main.47a50977.chunk.js",
+    "main.js.map": "https://galzk.github.io/csb-lb88iq/static/js/main.47a50977.chunk.js.map",
+    "runtime-main.js": "https://galzk.github.io/csb-lb88iq/static/js/runtime-main.b027f5dc.js",
+    "runtime-main.js.map": "https://galzk.github.io/csb-lb88iq/static/js/runtime-main.b027f5dc.js.map",
+    "static/js/2.b50fb3d0.chunk.js": "https://galzk.github.io/csb-lb88iq/static/js/2.b50fb3d0.chunk.js",
+    "static/js/2.b50fb3d0.chunk.js.map": "https://galzk.github.io/csb-lb88iq/static/js/2.b50fb3d0.chunk.js.map",
+    "static/js/3.96da7193.chunk.js": "https://galzk.github.io/csb-lb88iq/static/js/3.96da7193.chunk.js",
+    "static/js/3.96da7193.chunk.js.map": "https://galzk.github.io/csb-lb88iq/static/js/3.96da7193.chunk.js.map",
+    "static/js/4.e203f436.chunk.js": "https://galzk.github.io/csb-lb88iq/static/js/4.e203f436.chunk.js",
+    "static/js/4.e203f436.chunk.js.map": "https://galzk.github.io/csb-lb88iq/static/js/4.e203f436.chunk.js.map",
     "index.html": "https://galzk.github.io/csb-lb88iq/index.html",
     "static/css/main.f29ae65a.chunk.css.map": "https://galzk.github.io/csb-lb88iq/static/css/main.f29ae65a.chunk.css.map",
-    "static/js/2.fe19864c.chunk.js.LICENSE.txt": "https://galzk.github.io/csb-lb88iq/static/js/2.fe19864c.chunk.js.LICENSE.txt"
+    "static/js/2.b50fb3d0.chunk.js.LICENSE.txt": "https://galzk.github.io/csb-lb88iq/static/js/2.b50fb3d0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a1816ad4.js",
-    "static/js/2.fe19864c.chunk.js",
+    "static/js/runtime-main.b027f5dc.js",
+    "static/js/2.b50fb3d0.chunk.js",
     "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.90e143bb.chunk.js"
+    "static/js/main.47a50977.chunk.js"
   ]
 }

@@ -1,0 +1,2 @@
+(this["webpackJsonptest-lazy-load-with-observer"]=this["webpackJsonptest-lazy-load-with-observer"]||[]).push([[4],{17:function(t,e,s){"use strict";s.r(e);var a=s(16),o=s(0),n=Object(a.a)((function(){return Object(o.jsx)("div",{children:"My Lazy Loaded Component"})}));e.default=n}}]);
+//# sourceMappingURL=4.e203f436.chunk.js.map

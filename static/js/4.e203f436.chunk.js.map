@@ -1,0 +1,1 @@
+{"version":3,"sources":["LazyComponent.js"],"names":["LazyComponent","observer"],"mappings":"mJAAA,0BACMA,EAAgBC,aAAS,kBAAM,8BAAK,4BAA8B,IAEzDD,W","file":"static/js/4.e203f436.chunk.js","sourcesContent":["import { observer } from \"mobx-react-lite\";\nconst LazyComponent = observer(() => <div>My Lazy Loaded Component</div>);\n\nexport default LazyComponent;\n"],"sourceRoot":""}
